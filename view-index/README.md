@@ -39,3 +39,4 @@
 ## 参考
 
 - [中文金融情感词典发布啦 | 附代码](https://jishuin.proginn.com/p/763bfbd60498)
+- [基于新闻情感的上市公司财务造假识别方法研究](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=SDKY202101011&uniplatform=NZKPT&v=cRdTjtc-nuK1GfkWlZCIKQC1f2YOxkhL1QPX7UrOpcwezhfrMO1Tyd3AaSdlSwpN)
