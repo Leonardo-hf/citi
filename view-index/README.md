@@ -26,10 +26,15 @@
 ├── __init__.py
 ├── README.md
 └── util
-    ├── config.py 
-    ├── database.py
-    └── read.py
+    ├── database.py # 用于将数据导入数据库
+    └── read.py # 用于读取文件
 ```
+
+- data, 放置数据文件, 包括公司新闻
+- dict, 财经情感词汇
+- util, 工具模块, 包括文件工具, 数据库工具, 爬虫工具?
+- emotion.py 文本的积极/消极情感指标, 中性指标未考虑, 积极加消极和为 1
+- app.py 入口文件, 目前是用于测试...
 
 ## 参考
 
