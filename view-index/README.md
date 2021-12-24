@@ -18,7 +18,8 @@
 .
 ├── app.py # 入口文件
 ├── data
-│   └── pairs.csv # 选取的 10 对公司
+│   ├── pairs.csv # 选取的 10 对公司
+│   └── company_emo.csv # 选取公司的情感指标比例
 ├── dict
 │   ├── neg.txt # 消极财经词汇
 │   └── pos.txt # 积极财经词汇
@@ -27,7 +28,8 @@
 ├── README.md
 └── util
     ├── database.py # 用于将数据导入数据库
-    └── read.py # 用于读取文件
+    ├── read.py # 用于读取文件
+    └── logistic.py # 用于构建logistic回归模型
 ```
 
 - data, 放置数据文件, 包括公司新闻
